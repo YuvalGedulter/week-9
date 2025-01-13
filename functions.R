@@ -37,5 +37,3 @@ statistics <- function(data, subject_start, subject_end) {
 
   return(results)
 }
-source("analysis.R")
-statistics(data, 10, 50)
